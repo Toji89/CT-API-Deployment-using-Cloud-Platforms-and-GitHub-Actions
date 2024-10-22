@@ -1,0 +1,8 @@
+blinker ==1.7.0
+click ==8.1.7
+colorama ==0.4.6
+Faker ==24.9.0
+Flask ==3.0.3
+gunicon ==22.0.0
+Flask-SQLAlchemy==2.5.1
+psycopg2==2.9.1
